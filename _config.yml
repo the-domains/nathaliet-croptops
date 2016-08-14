@@ -36,6 +36,9 @@ navigation:
   - name: '#NathalietMe'
     url: 'https://thegrid.ai/nathalietme/'
     type: external
+  - name: Agendar una cita
+    url: 'http://m.me/nathalietme'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7823e8d-63e1-49ea-b094-e98e87a1198a.png
 title: Nathaliet
