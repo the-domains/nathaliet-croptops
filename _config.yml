@@ -24,6 +24,9 @@ navigation:
   - name: Crop Tops
     url: 'https://thegrid.ai/nathaliet-croptops'
     type: external
+  - name: Blazers
+    url: 'https://thegrid.ai/nathaliet-blazers'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7823e8d-63e1-49ea-b094-e98e87a1198a.png
 title: Nathaliet
