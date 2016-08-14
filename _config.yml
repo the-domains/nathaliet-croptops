@@ -1,16 +1,16 @@
-typography_spectrum: 0.16832999070174992
+typography_spectrum: 0.26435985672287643
 color:
-  brandStrength: 0.9338102643378079
-  lightness: 0.593237322056666
-  saturation: 0.2154661393724382
-  rhythmicContrast: 0.8006658449303359
+  brandStrength: 0.43887067143805325
+  lightness: 0.6830495581962168
+  saturation: 0.4118706677109003
+  rhythmicContrast: 0.11808895505964756
   brandColors:
     - '#FFF8E3'
     - '#CCCC9F'
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-layout_spectrum: 0.4709951672703028
+layout_spectrum: 0.5700025619007647
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc2eec13-33a2-43ea-8558-d083d74e0e13.png
 name: nathaliet croptops
