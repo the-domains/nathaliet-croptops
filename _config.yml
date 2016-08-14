@@ -30,6 +30,9 @@ navigation:
   - name: Vestidos
     url: 'https://thegrid.ai/nathaliet-vestidos'
     type: external
+  - name: Trajes de Baño
+    url: 'https://thegrid.ai/nathaliet-trajes-de-bano/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7823e8d-63e1-49ea-b094-e98e87a1198a.png
 title: Nathaliet
