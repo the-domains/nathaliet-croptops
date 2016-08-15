@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-15T04:01:20.961Z'
+datePublished: '2016-08-15T04:28:37.659Z'
 sourcePath: _posts/2016-08-15-blazer-lanilla-hasta-la-cadera-crop-rojo-tela-sofi.md
 isBasedOnUrl: >-
   https://www.facebook.com/nathalietme/photos/a.754306971329371.1073741828.754246384668763/1137849582975106/?type=3&theater
@@ -22,7 +22,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fe14d3b3b733eb4af51f355ed0ac6aa05eaa5d2.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f354b41a206761e640e06eeeadecb08/croprotate.jpg?cropheight=720&cropwidth=560&degrees=0&input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-9%2Fp720x720%2F13241224_1137849582975106_8432684280764354861_n.jpg%3Foh%3D1594f532f5893c7d61b8e263bc265553%26oe%3D581A2579&x=80&y=0
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fe14d3b3b733eb4af51f355ed0ac6aa05eaa5d2.jpg
       width: 560
       height: 720
       colors:
@@ -42,7 +42,7 @@ author:
           - 70
           - 71
 via: {}
-dateModified: '2016-08-15T04:01:20.055Z'
+dateModified: '2016-08-15T04:28:37.097Z'
 title: ''
 app_links:
   - url: 'fb://page/754246384668763'
